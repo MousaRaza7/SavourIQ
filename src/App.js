@@ -1,23 +1,21 @@
 import logo from './logo.svg';
 import './App.css';
-
+import signin from './signin.jpg';
+import logo2 from './logo2.png'
+import mainpic from './mainpic.jpg'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+          <b1>Main Page</b1>
+      <div className='Signin-icon'>
+        <img src={signin} alt="Sign In Icon" />
+      </div>
+      <div className='logo-icon'>
+        <img src={logo2} alt="logo image" />
+      </div>
+      <div className='main-pic'>
+        <img src={mainpic} alt="main picture" />
+      </div>
     </div>
   );
 }

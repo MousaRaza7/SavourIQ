@@ -1,10 +1,28 @@
 .App {
   text-align: center;
 }
+.Signin-icon{
+  position: absolute;
+  left: 18px;
+  top: 83px;
+  width: 24px;
+  height: 24px;
+}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.logo-icon {
+  position: absolute;
+  left: 608px;
+  top: 85px;
+  width: 183px;
+  height: 169px;
+}
+
+.main-pic{
+  position: absolute;
+  left: 28px;
+  top: 300px;
+  width: 483px;
+  height: 270.37px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
