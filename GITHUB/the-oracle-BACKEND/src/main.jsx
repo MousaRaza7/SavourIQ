@@ -5,6 +5,7 @@ import "./index.css";
 import About from "./pages/About.jsx";
 import Whiskey from "./pages/Whiskey.jsx";
 import Contact from "./pages/Contact.jsx";
+import LearnMore from "./pages/LearnMore.jsx";
 
 // import * as ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
