@@ -11,7 +11,7 @@
 
 .logo-icon {
   position: absolute;
-  left: 608px;
+  right: 608px;
   top: 85px;
   width: 183px;
   height: 169px;
@@ -19,8 +19,8 @@
 
 .main-pic{
   position: absolute;
-  left: 30px;
-  top: 300px;
+  left: 28px;
+  top: 116px;
   width: 483px;
   height: 270.37px;
 }
@@ -34,7 +34,7 @@
 
 .explore-button {
   position: absolute;
-  right: 54px;
+  right: 543px;
   top: 346px;
   height: 61px;
   padding: 10px 20px;
@@ -46,7 +46,7 @@
 }
 .learn-more-button{
   position: absolute;
-  right: 170px;
+  right: 715px;
   top: 346px;
   height: 61px;
   padding: 10px 20px;
@@ -75,6 +75,7 @@
 .learn-more-button:hover {
   background-color: #c9c9c9;
 }
+
 
 
 @media (prefers-reduced-motion: no-preference) {

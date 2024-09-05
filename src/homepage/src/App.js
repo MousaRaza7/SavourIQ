@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
-import signin from './signin.jpg';
-import logo2 from './logo2.png'
-import mainpic from './mainpic.jpg'
+import signin from './signin.png';
+import logo2 from './logo.png'
+import mainpic from './mainpic.png'
 
 function App() {
   return (
